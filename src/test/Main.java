@@ -9,11 +9,12 @@ package test;
  * @author leand
  */
 public class Main {
-
+ 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("lalala");
         System.out.println("1-1");
         try {
             
